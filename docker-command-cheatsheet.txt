@@ -39,3 +39,5 @@ docker build --rm=true .
 docker build --no-cache .
 
 docker build --help
+
+docker image prune
