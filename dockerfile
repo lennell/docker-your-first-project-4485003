@@ -1,5 +1,5 @@
 # Use an official Python runtime as the base image
-FROM python:3.12-rc-bookworm
+FROM python:3.12-bookworm
 
 # Set the working directory in the container to /app
 WORKDIR /app
