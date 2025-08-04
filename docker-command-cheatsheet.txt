@@ -124,8 +124,8 @@ https://hub.docker.com/
 
 docker login
 
-docker tag big-star-collectibles:v2 sbenhoff/big-star-collectibles-repo:big-star-collectibles
+docker tag big-star-collectables:v2 lennell/big-star-collectables-repo:big-star-collectables
 
-docker push sbenhoff/big-star-collectibles-repo:big-star-collectibles
+docker push lennell/big-star-collectables-repo:big-star-collectables
 
-docker pull sbenhoff/big-star-collectibles-repo:big-star-collectibles
+docker pull lennell/big-star-collectibles-repo:big-star-collectibles
