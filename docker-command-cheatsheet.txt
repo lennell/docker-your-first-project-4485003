@@ -165,7 +165,7 @@ http://localhost:5000
 
 docker stop [OPTIONS] CONTAINER [CONTAINER...]
 
-docker stop big-star-collectibles:v2
+docker stop big-star-collectables:v2
 
 docker kill [OPTIONS] CONTAINER [CONTAINER...]
 
